@@ -1,0 +1,1 @@
+; window.region_province_34 = {"396":{"region_id":"396","region_name":"\u6fb3\u95e8\u534a\u5c9b","parent_id":"34","soon":{"3383":{"region_id":"3383","region_name":"\u6fb3\u95e8","parent_id":"396"}}},"3437":{"region_id":"3437","region_name":"\u79bb\u5c9b","parent_id":"34"}};
